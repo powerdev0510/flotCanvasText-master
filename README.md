@@ -1,2 +1,1 @@
-# flotCanvasText-master
-# flotCanvasText-master
+#Flot Canvas Text
